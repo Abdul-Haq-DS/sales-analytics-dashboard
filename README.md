@@ -59,7 +59,7 @@ sales-analytics-dashboard/
 
 ### 1. Clone the repository
 \`\`\`bash
-git clone https://github.com/yourusername/sales-analytics-dashboard.git
+git clone https://github.com/Abdul-Haq-DS/sales-analytics-dashboard.git
 cd sales-analytics-dashboard
 \`\`\`
 
