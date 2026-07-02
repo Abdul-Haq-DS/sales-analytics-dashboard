@@ -115,3 +115,12 @@ Open browser at: http://127.0.0.1:8051
 
 Abdul
 Data Analyst Portfolio Project
+
+---
+
+## Portfolio
+
+| Project | Description | Link |
+|---|---|---|
+| Project 1 | Sales Analytics Dashboard | This repo |
+| Project 2 | Customer Segmentation (K-Means) | [View](https://github.com/Abdul-Haq-DS/customer-segmentation) |
